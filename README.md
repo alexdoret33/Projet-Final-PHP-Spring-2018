@@ -11,5 +11,4 @@ Alexandre DORET, Ingésup B2A
 		puis comme password: secret
 		puis "use cvdb"
 
-	Je suis donc, à cause de Vagrant, dans l'impossibilité de dupliquer mon projet pour le tester avant de vous le rendre (comme vous l'expliquez dans votre mail) j'espère donc que vous allez réussir à l'ouvrir sans encombre. 
 	N'hesitez pas à me contacter (alexandre.doret@ynov.com) si vous voulez plus d'informations sur ce projet.
